@@ -23,3 +23,50 @@
  * and introducing objects and abstractions is as simple as switching the
  * following variables to `true`.
  */
+$use-grids:         false;
+$use-flexbox:       false;
+$use-columns:       false;
+$use-nav:           false;
+$use-options:       false;
+$use-pagination:    false;
+$use-breadcrumb:    false;
+$use-media:         false;
+$use-marginalia:    false;
+$use-island:        false;
+$use-block-list:    false;
+$use-matrix:        false;
+$use-split:         false;
+$use-this-or-this:  false;
+$use-link-complex:  false;
+$use-flyout:        false;
+$use-arrows:        false;
+$use-sprite:        false;
+$use-icon-text:     false;
+$use-buttons:       false;
+$use-lozenges:      false;
+$use-rules:         false;
+$use-stats:         false;
+$use-greybox:       false;
+$use-batch:         false;
+
+
+
+
+
+/*------------------------------------*\
+    $OVERRIDES
+\*------------------------------------*/
+/**
+ * Place any variables that should override inuit.css’ defaults here.
+ */
+
+
+
+
+
+/*------------------------------------*\
+    $CUSTOM
+\*------------------------------------*/
+/**
+ * Place any of your own variables that sit on top of inuit.css here.
+ */
