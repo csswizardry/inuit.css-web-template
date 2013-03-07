@@ -8,7 +8,7 @@ git init                && \
 mv modules .git/        && \
 git add css/inuit.css   && \
 git add .gitmodules     && \
-rm $0
+rm go
 
 echo "inuit.css project successfully installed"
 
