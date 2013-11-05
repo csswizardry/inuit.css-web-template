@@ -1,0 +1,10 @@
+# Folders #
+###########
+node_modules
+.sass-cache
+
+# Individual Files #
+####################
+.DS_Store
+*.swp
+css/style.min.css
