@@ -1,0 +1,10 @@
+{
+  "name": "inuit.css-web-template",
+  "version": "",
+  "require": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-sass": "~0.5.0",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
