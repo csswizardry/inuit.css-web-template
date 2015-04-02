@@ -11,7 +11,7 @@ Git submodule.
 
 To quickly install inuit.css, run the following commands:
 
-    $ git clone --recursive git@github.com:csswizardry/inuit.css-web-template.git your-project-folder
+    $ git clone --recursive https://github.com/csswizardry/inuit.css-web-template your-project-folder
     $ cd your-project-folder
     $ ./go
 
